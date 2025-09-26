@@ -378,6 +378,4 @@ the Free Software Foundation; either version 2 of the License, or
 ---
 
 *Made with ❤️ for the WordPress and WooCommerce community*# dropshippingbd-addon
-# dropshippingbd-addon
-# dropshippingbd-addon
-# dropshippingbd-addon
+ 

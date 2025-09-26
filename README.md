@@ -1,4 +1,4 @@
-# 🚀 DropshippingBD Addon for WooCommerce
+# 🚀 Dropshipping.Com.BD Addon for WooCommerce
 
 A powerful WordPress plugin that seamlessly imports products from **Mohasagor.com.bd** API to your WooCommerce store with advanced features, beautiful UI, and comprehensive management tools.
 
@@ -378,4 +378,5 @@ the Free Software Foundation; either version 2 of the License, or
 ---
 
 *Made with ❤️ for the WordPress and WooCommerce community*# dropshippingbd-addon
+# dropshippingbd-addon
 # dropshippingbd-addon

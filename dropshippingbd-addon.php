@@ -2,9 +2,10 @@
 /**
  * Plugin Name: DropshippingBD Addon
  * Plugin URI: https://github.com/sohagsrz/dropshippingbd-addon
- * Description: Import products from DropshippingBD.com.bd API to WooCommerce with custom markup and custom field storage
+ * Description: Import products from Dropshipping.com.bd API to WooCommerce with custom markup and custom field storage
  * Version: 1.0.0
  * Author: Sohag Srz
+ * Author URI: https://facebook.com/sohagsrz
  * License: GPL v2 or later
  * Text Domain: dropshippingbd-addon
  */
